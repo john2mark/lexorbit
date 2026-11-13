@@ -1,45 +1,56 @@
 # LexOrbit
 
-### Space Law. International Law. Africa.
+**Space law, international law, and African perspectives.**
 
-LexOrbit is an African-focused legal technology project exploring the intersection of space law, international law, and technology.
+LexOrbit is an early-stage legal research and legal-technology project exploring how space-law materials can be made more accessible, organised, and useful to students, researchers, legal practitioners, and policymakers, particularly in African contexts.
 
-## The Problem
+## Research problem
 
-Space activities are expanding rapidly, but access to space-law knowledge, legal resources, and practical analysis remains fragmented and difficult to navigate—particularly from an African perspective.
+Space activities increasingly raise questions about state responsibility, liability, remote sensing, data governance, equitable access, and the participation of developing countries. Relevant legal instruments and commentary can be difficult to navigate, especially when research is approached from an African perspective.
 
-LexOrbit aims to make space-law research more accessible, structured, and useful.
+LexOrbit is an attempt to organise these materials around legal questions and research themes.
 
-## The Vision
+## Initial research areas
 
-To build a legal research platform that helps students, researchers, lawyers, policymakers, and institutions understand and apply international space law with particular attention to African interests.
-
-## Initial Focus
-
-The first version of LexOrbit will explore questions involving:
-
-- International space law
-- The Outer Space Treaty
+- International space law and the UN space treaties
+- The Outer Space Treaty and the broader UN space-law framework
+- State responsibility and liability for space activities
 - Earth observation and remote sensing
 - Space data and data governance
-- State sovereignty
-- Liability and responsibility in outer space
+- Sovereignty and jurisdiction
 - African participation in space activities
-- Equity and the principle of the province of all mankind
+- Equity and the principle that the exploration and use of outer space are the province of all humankind
 
-## MVP
+## Intended research workflow
 
-The initial prototype will allow a user to submit a space-law question and receive a structured research-oriented response containing:
+The proposed research experience is designed to help a user:
 
-1. The relevant legal principle
-2. Applicable treaty provisions or legal instruments
-3. African relevance
-4. Key sources for further research
+1. Identify the legal issue raised by a space-related question.
+2. Locate relevant treaty provisions and other legal instruments.
+3. Understand the applicable legal principles.
+4. Consider the implications for African states and institutions.
+5. Find primary and secondary sources for further research.
 
-## Status
+## Development status
 
-🚧 Early development — Mission Orbit Day 1
+**Early development / concept and prototype stage.**
 
-## Long-Term Vision
+The repository currently documents the project's purpose, research scope, and intended minimum viable product. The full research-question workflow described above is a development objective, not a claim that a complete legal research platform is already operational.
 
-LexOrbit aims to evolve into a specialised legal research and knowledge platform for space law, with a strong focus on African participation, interests, and legal development.
+## Research principles
+
+- Prioritise primary legal sources, including treaties and official institutional materials.
+- Distinguish binding legal instruments from policy documents, commentary, and academic opinion.
+- Identify the jurisdiction and legal status of sources where relevant.
+- Provide references so users can verify legal propositions independently.
+- Avoid presenting automated outputs as a substitute for legal advice or independent legal research.
+
+## Longer-term direction
+
+LexOrbit may develop into a specialised legal research and knowledge platform focused on space law, international law, and African participation in space governance. Future development could include a searchable source library, structured legal issue analysis, and properly referenced research responses.
+
+## Author
+
+John-Mark Oreoluwa Fadipe
+
+Independent research and legal-technology project.
